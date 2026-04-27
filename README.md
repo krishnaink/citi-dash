@@ -1,6 +1,6 @@
 # DJIA Intelligence Dashboard
 
-**Real-time Dow Jones data pipeline — built for the Citi Software Engineering Virtual Experience on Forage**
+**Real-time Dow Jones data pipeline*
 
 ![Stack](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=white)
 ![Stack](https://img.shields.io/badge/Vite-5-646CFF?style=flat&logo=vite&logoColor=white)
@@ -15,7 +15,6 @@
 
 This project is a full-stack data pipeline that queries the **Dow Jones Industrial Average (^DJI)** from the Yahoo Finance API every 5 seconds, stores each price-timestamp pair in a Java `LinkedList` queue, and surfaces the data stream into a multi-tab interactive dashboard.
 
-Built as Task 3 of the [Citi Software Engineering Virtual Experience](https://www.theforage.com/) on Forage — extended with a React frontend, statistical analysis layer, executive report, and pipeline documentation.
 
 ---
 

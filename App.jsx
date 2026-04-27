@@ -115,7 +115,7 @@ export default function App() {
           <div style={{ width: 30, height: 30, borderRadius: 7, background: `linear-gradient(135deg, ${A}, #2563eb)`, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 13, fontWeight: 700, color: "#fff" }}>D</div>
           <div>
             <div style={{ fontSize: 14, fontWeight: 600, letterSpacing: "-0.01em" }}>DJIA Intelligence</div>
-            <div style={{ fontSize: 10, color: "#475569", fontFamily: "monospace" }}>Citi × Forage · Real-time pipeline</div>
+            <div style={{ fontSize: 10, color: "#475569", fontFamily: "monospace" }}>Citi · Real-time pipeline</div>
           </div>
         </div>
         <div style={{ display: "flex", gap: 4 }}>
